@@ -1,0 +1,4 @@
+hi good evening
+my first soft link
+linux commands are important for devops engineers
+
